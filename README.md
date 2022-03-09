@@ -41,11 +41,11 @@
 
 - Clone the repository 
   ```bash
-  git clone https://github.com/abhijeet007rocks8/Dev-Scripts.git
+  git clone https://github.com/kriptonian1/crypto_tracker.git
   ```
-- Navigate to `Dev-Scripts/React/crypto_tracker`
+- Navigate to `/crypto_tracker`
   ```bash
-    cd Dev-Scripts/React/crypto_tracker
+    cd crypto_tracker
   ```
 - Install dependencies
   ```bash
